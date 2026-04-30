@@ -48,7 +48,6 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 
 ### Contact
 
-- **CV :** [Télécharger le CV (PDF)](./CV_Kizona_CHY.pdf)
 - **Email :** [pro@chykizona.eu](mailto:pro@chykizona.eu)
 - **LinkedIn :** [linkedin.com/in/kizona-chy](https://www.linkedin.com/in/kizona-chy)
 - **Site :** [stealthylabs.eu](https://stealthylabs.eu)
