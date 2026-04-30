@@ -2,24 +2,15 @@
 
 **AI automation · business systems · digital transformation**
 
-<details>
-<summary><strong>Professional profile / Profil professionnel</strong> - click to expand</summary>
-
-<br>
-
-## Kizona Chy
-
-**BUT GEA student · EFREI Paris Master's in Management & Digital Transformation · Sept. 2026**
-
-I connect accounting, information systems and AI automation to help business teams build clearer, faster and more reliable workflows.
+I build automation and AI-assisted workflows for business teams, with a focus on information systems, adoption and practical delivery.
 
 <p>
   <a href="mailto:pro@chykizona.eu"><img src="https://img.shields.io/badge/Email-pro%40chykizona.eu-FF0000?style=flat-square&labelColor=111111" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/kizona-chy"><img src="https://img.shields.io/badge/LinkedIn-Kizona%20Chy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kizona-chy"><img src="https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stealthylabs.eu"><img src="https://img.shields.io/badge/Site-stealthylabs.eu-111111?style=flat-square&labelColor=111111&color=FF0000" alt="Website" /></a>
 </p>
 
-## English
+## Recruiter Snapshot
 
 ### Current Search
 
@@ -30,7 +21,6 @@ I am looking for a **24-month apprenticeship starting in September 2026** in **b
 - **Location:** Paris region, France
 - **Target teams:** IT, transformation, data, innovation, operations, finance or management control
 - **Profile:** accounting apprentice with a strong interest in automation, AI and business tools
-- **CV / LinkedIn:** [linkedin.com/in/kizona-chy](https://www.linkedin.com/in/kizona-chy)
 
 ### Technical Stack
 
@@ -53,9 +43,15 @@ I am looking for a **24-month apprenticeship starting in September 2026** in **b
 - [**powerbi-mcp-local**](https://github.com/StealthyLabsHQ/powerbi-mcp-local) - local MCP server exploring Power BI, Excel and semantic model automation.
 - [**agentops-config-toolkit**](https://github.com/StealthyLabsHQ/agentops-config-toolkit) - compact configs for focused Claude Code, Codex and Gemini workflows.
 
+### Contact
+
+- **Email:** [pro@chykizona.eu](mailto:pro@chykizona.eu)
+- **LinkedIn:** [linkedin.com/in/kizona-chy](https://www.linkedin.com/in/kizona-chy)
+- **Site:** [stealthylabs.eu](https://stealthylabs.eu)
+
 ---
 
-## Français
+## Profil recruteur
 
 ### Recherche actuelle
 
@@ -66,7 +62,6 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 - **Localisation :** Île-de-France
 - **Cible :** équipes SI, transformation, data, innovation, organisation, finance ou contrôle de gestion
 - **Profil :** alternant comptable avec forte appétence automatisation, IA et outils métier
-- **CV / LinkedIn :** [linkedin.com/in/kizona-chy](https://www.linkedin.com/in/kizona-chy)
 
 ### Stack technique
 
@@ -91,11 +86,26 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 
 ### Contact
 
-- **Email:** [pro@chykizona.eu](mailto:pro@chykizona.eu)
-- **LinkedIn:** [linkedin.com/in/kizona-chy](https://www.linkedin.com/in/kizona-chy)
-- **Site:** [stealthylabs.eu](https://stealthylabs.eu)
+- **Email :** [pro@chykizona.eu](mailto:pro@chykizona.eu)
+- **LinkedIn :** [linkedin.com/in/kizona-chy](https://www.linkedin.com/in/kizona-chy)
+- **Site :** [stealthylabs.eu](https://stealthylabs.eu)
 
 ---
+
+<details>
+<summary><strong>Who am I? / Qui suis-je ?</strong></summary>
+
+<br>
+
+## Kizona Chy
+
+I am a BUT GEA student in a work-study accounting role, admitted to the EFREI Paris Master's in Management & Digital Transformation for September 2026.
+
+Je suis étudiant en BUT GEA en alternance comptable, admis en Master Management & Digital Transformation à l'EFREI Paris pour septembre 2026.
+
+This space separates my professional positioning from my personal identity: recruiters can read the job-focused profile first, then open this section if they want more context.
+
+Cette section sépare mon positionnement professionnel de mon identité personnelle : les recruteurs peuvent lire d'abord le profil orienté poste, puis ouvrir cette partie s'ils veulent plus de contexte.
 
 </details>
 
