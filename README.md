@@ -1,4 +1,13 @@
-# Kizona Chy
+# StealthyLabsHQ
+
+**AI automation · business systems · digital transformation**
+
+<details>
+<summary><strong>Professional profile / Profil professionnel</strong> - click to expand</summary>
+
+<br>
+
+## Kizona Chy
 
 **BUT GEA student · EFREI Paris Master's in Management & Digital Transformation · Sept. 2026**
 
@@ -88,10 +97,9 @@ Je recherche une **alternance de 24 mois à partir de septembre 2026** en **AMOA
 
 ---
 
-<details>
-<summary><strong>StealthyLabs</strong> - personal layer</summary>
+</details>
 
-<br>
+---
 
 <div align="center">
 
@@ -107,5 +115,3 @@ quiet tools - useful systems - clear signal
 </p>
 
 </div>
-
-</details>
